@@ -3,10 +3,10 @@ Serve and help to generate tutorial deployment for https://tutorials.ubuntu.com
 
 [![Test Status](https://travis-ci.org/ubuntu/tutorial-deployment.svg?branch=master)](https://travis-ci.org/ubuntu/tutorial-deployment)
 
-Those couple of tools are used in conjunction with https://github.com/canonical-websites/tutorials.ubuntu.com to generate a tutorial website. Those can be written in Markdown or google doc, [using the cleat google's library](https://github.com/googlecodelabs/tools).
+Those couple of tools are used in conjunction with https://github.com/canonical-websites/tutorials.ubuntu.com to generate a tutorial website. Those can be written in Markdown or google doc, [using the claat google's library](https://github.com/googlecodelabs/tools).
 
 ## Important note
-We are using currently [a fork](https://github.com/didrocks/codelab-ubuntu-tools) of the cleat tools as our fixes for the markdown parser are getting reviewed and merged by the Google team.
+We are using currently [a fork](https://github.com/didrocks/codelab-ubuntu-tools) of the claat tools as our fixes for the markdown parser are getting reviewed and merged by the Google team.
 
 As this is a more robust deployment procedure, some structural changed were needed and are in progress [there](https://github.com/didrocks/tutorials.ubuntu.com/tree/reformat-tooling). This tool works exclusively with that branch.
 
