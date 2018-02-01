@@ -7,7 +7,6 @@ difficulty: 2
 status: Published
 published: 2017-01-13
 feedback link: http://Link
-image: image.png
 
 ---
 
